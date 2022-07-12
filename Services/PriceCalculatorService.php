@@ -1,6 +1,5 @@
 <?php
 
-require_once 'Models/Order.php';
 
 class PriceCalculatorService
 {

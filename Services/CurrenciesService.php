@@ -1,5 +1,6 @@
 <?php
 
+
 class CurrenciesService
 {
     private $bynRate;

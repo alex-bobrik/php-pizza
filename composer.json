@@ -1,0 +1,26 @@
+{
+    "name": "mac/php-pizza",
+    "type": "project",
+    "autoload": {
+        "psr-4": {},
+        "files": [
+            "Controllers/OrderController.php",
+            "Interfaces/ISearchable.php",
+            "Models/Order.php",
+            "Models/Pizza.php",
+            "Models/PizzaSize.php",
+            "Models/Sauce.php",
+            "Models/Size.php",
+            "Services/CurrenciesService.php",
+            "Services/PriceCalculatorService.php",
+            "DbClass.php"
+        ]
+    },
+    "authors": [
+        {
+            "name": "alex-bobrik",
+            "email": "sasha.bobrik@inbox.ru"
+        }
+    ],
+    "require": {}
+}

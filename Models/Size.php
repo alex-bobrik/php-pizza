@@ -1,7 +1,5 @@
 <?php
 
-require_once 'DbClass.php';
-
 
 class Size implements ISearchable
 {

@@ -1,7 +1,5 @@
 <?php
 
-require_once 'DbClass.php';
-require_once 'Interfaces/ISearchable.php';
 
 class Pizza implements ISearchable
 {

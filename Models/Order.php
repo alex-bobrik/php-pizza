@@ -1,11 +1,5 @@
 <?php
 
-require_once 'Models/Pizza.php';
-require_once 'Models/PizzaSize.php';
-require_once 'Models/Size.php';
-require_once 'Models/Sauce.php';
-require_once 'Services/PriceCalculatorService.php';
-
 
 class Order implements JsonSerializable
 {

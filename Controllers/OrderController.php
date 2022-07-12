@@ -1,10 +1,5 @@
 <?php
 
-require_once 'Models/Order.php';
-require_once 'Models/Pizza.php';
-require_once 'Models/Sauce.php';
-require_once 'Models/Size.php';
-require_once 'Services/CurrenciesService.php';
 
 class OrderController
 {

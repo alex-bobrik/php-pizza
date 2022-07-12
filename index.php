@@ -1,6 +1,6 @@
 <?php
 
-require_once  'Controllers/OrderController.php';
+require_once 'vendor/autoload.php';
 
 $controller = new OrderController();
 $controller->handleRequest();
